@@ -4,8 +4,8 @@
  * Exercise PWM WITH GPIOs (For App Board or Breadboard)
 1.Using any digital output pin, write a program which outputs a square wave, by switching the output repeatedly
  between Logic 1 and 0.
-2.Change the period of the square wave with two buttons.
-3.This square wave will be connected to a led which will be blinking.
+2.Change the time  of the HIGH STATE OF THE PWM with two buttons.
+3.This square wave will be connected to a led which will be shine more or less.
  *
  *
  *
